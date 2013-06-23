@@ -6,7 +6,7 @@ gl.Canvas = function( eContainer )
 	this._eContainer = eContainer;
 	this._nWidth = this._eContainer.offsetWidth;
 	this._nHeight = this._eContainer.offsetHeight;
-CANVAS = this;
+
 	this._eCanvas = document.createElement( "canvas" );
 	this._eCanvas.width = this._nWidth;
 	this._eCanvas.height = this._nHeight;
