@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+body{
+	background: #f6f6f6;
+}
+
+#canvasContainer{
+	background: #fff;
+	width: 600px;
+	height: 400px;
+	margin: 20px auto;
+}
